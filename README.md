@@ -75,4 +75,22 @@ Kampüs Rehberi, üniversite öğrencilerinin kampüs hayatını kolaylaştırma
 ### Hedef Kitle
 Kampüs Rehberi, üniversite öğrencilerine yönelik olarak tasarlanmıştır. Öğrencilerin kampüs yaşamlarını daha organize ve verimli hale getirmek amacıyla geliştirilmiştir. Hedef kitle, kampüs içindeki etkinliklere katılmak isteyen, ders programlarını takip eden, kütüphane kaynaklarına erişim sağlamak isteyen ve kampüs içindeki mekanları keşfetmek isteyen öğrencilerden oluşur.
 
+### Sprint içinde tamamlanması tahmin edilen puan
+
+
+### Puan tamamlama mantığı
+
+
+## Daily Scrum
+Whatsapp üzerinden görüşmeler sağlanmıştır. Bilgilendirmeler için Discord grubu kurulmuştur.
+
+## Sprint Board Ekran Görüntüleri
+
+
+## Ürün Durumu: Ekran Görüntüleri
+
+## Sprint Review
+
+## Sprint Retrospective
+
 
