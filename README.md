@@ -135,6 +135,8 @@ Whatsapp üzerinden görüşmeler sağlanmıştır. Bilgilendirmeler için Disco
 **Furkan:**
 - Kodlar üzerinde çalışmaya başlayacak.
 - Engellediğim bir konu yok.
+
+  
 **Notlar:**
 - Ürüne karar verildi.
 - Ürün logosu ve teması yapıldı.
