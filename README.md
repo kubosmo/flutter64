@@ -120,4 +120,30 @@ Whatsapp üzerinden görüşmeler sağlanmıştır. Bilgilendirmeler için Disco
   • Tasarımın renkleri değiştirildi.
   • Kodlama kısmına başlanılması beklenildi.
 
+  
+  ## Sprint Notları 
+  **Kübra Nur:**
+- Sprint 1 kısmını tamamladı
+- Fikir geliştirildi.
+- Fikirler oylandı ve tasarım onaylandı
+
+**Makbule:**
+- Tasarımı bitirdi.
+- Spirint puanlaması ve tablo oluşturdu.
+- Görevlerin tamamlamasında yardımcı oldu.
+
+**Furkan:**
+- Kodlar üzerinde çalışmaya başlayacak.
+- Engellediğim bir konu yok.
+**Notlar:**
+- Ürüne karar verildi.
+- Ürün logosu ve teması yapıldı.
+- Ürün Tasarımı bitti.
+- Ürünü üretim sürecine geçilecektir.
+  
+
+
+
+
+
 
