@@ -84,6 +84,8 @@ Kampüs Rehberi, üniversite öğrencilerine yönelik olarak tasarlanmıştır. 
 ## Daily Scrum
 Whatsapp üzerinden görüşmeler sağlanmıştır. Bilgilendirmeler için Discord grubu kurulmuştur.
 ![Açıklama](https://github.com/kubosmo/flutter64/blob/main/WhatsApp%20G%C3%B6rsel%202024-07-08%20saat%2012.21.40_ab318229.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/WhatsApp%20G%C3%B6rsel%202024-07-08%20saat%2012.21.40_d1adb16a.jpg)
+
 
 
 
