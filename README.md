@@ -74,5 +74,5 @@ Kampüs Rehberi, üniversite öğrencilerinin kampüs hayatını kolaylaştırma
 
 ### Hedef Kitle
 Kampüs Rehberi, üniversite öğrencilerine yönelik olarak tasarlanmıştır. Öğrencilerin kampüs yaşamlarını daha organize ve verimli hale getirmek amacıyla geliştirilmiştir. Hedef kitle, kampüs içindeki etkinliklere katılmak isteyen, ders programlarını takip eden, kütüphane kaynaklarına erişim sağlamak isteyen ve kampüs içindeki mekanları keşfetmek isteyen öğrencilerden oluşur.
-[https://www.figma.com/design/BToN6JKPOGEhl78zENE1nc/Bootcamp-F64?node-id=0-1&t=Zf8LWlryPWjSzhhD-1](https://github.com/kullanici_adi/repository_adi)
+
 
