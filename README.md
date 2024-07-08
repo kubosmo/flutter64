@@ -76,9 +76,13 @@ Kampüs Rehberi, üniversite öğrencilerinin kampüs hayatını kolaylaştırma
 Kampüs Rehberi, üniversite öğrencilerine yönelik olarak tasarlanmıştır. Öğrencilerin kampüs yaşamlarını daha organize ve verimli hale getirmek amacıyla geliştirilmiştir. Hedef kitle, kampüs içindeki etkinliklere katılmak isteyen, ders programlarını takip eden, kütüphane kaynaklarına erişim sağlamak isteyen ve kampüs içindeki mekanları keşfetmek isteyen öğrencilerden oluşur.
 
 ### Sprint içinde tamamlanması tahmin edilen puan
+Sprint içi puan değerlemdirmesi 140 olarak belirlendi. 
+
 
 
 ### Puan tamamlama mantığı
+Hedefe ulaşılmışıtr.
+
 
 
 ## Daily Scrum
@@ -101,11 +105,19 @@ Whatsapp üzerinden görüşmeler sağlanmıştır. Bilgilendirmeler için Disco
 ![Açıklama](https://github.com/kubosmo/flutter64/blob/main/2.jpg)
 ![Açıklama](https://github.com/kubosmo/flutter64/blob/main/3.jpg)
 ![Açıklama](https://github.com/kubosmo/flutter64/blob/main/4.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/6.jpg)
+
 
 
 
 ## Sprint Review
+  • Katılımcıların rollerine karar verildi.
+  • Uygulamanın içeriği ve özellikleri belirlendi.
+  • Uygulamanın tasarımları yapıldı.
+  
 
 ## Sprint Retrospective
+  • Tasarımın renkerli değiştirildi.
+  • Kodlama kısmına başlanılması beklenildi.
 
 
