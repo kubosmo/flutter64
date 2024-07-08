@@ -117,7 +117,7 @@ Whatsapp üzerinden görüşmeler sağlanmıştır. Bilgilendirmeler için Disco
   
 
 ## Sprint Retrospective
-  • Tasarımın renkerli değiştirildi.
+  • Tasarımın renkleri değiştirildi.
   • Kodlama kısmına başlanılması beklenildi.
 
 
