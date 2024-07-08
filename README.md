@@ -92,9 +92,17 @@ Whatsapp üzerinden görüşmeler sağlanmıştır. Bilgilendirmeler için Disco
 
 
 ## Sprint Board Ekran Görüntüleri
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/trello.jpg)
+
 
 
 ## Ürün Durumu: Ekran Görüntüleri
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/1.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/2.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/3.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/4.jpg)
+
+
 
 ## Sprint Review
 
