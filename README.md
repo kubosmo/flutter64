@@ -136,12 +136,90 @@ Whatsapp üzerinden görüşmeler sağlanmıştır. Bilgilendirmeler için Disco
 - Kodlar üzerinde çalışmaya başlayacak.
 - Engellediğim bir konu yok.
 
+ 
+## Sprint 2
+
+## Sprint İçinde Tamamlanması Tahmin Edilen Puan
+
+Bu sprint için toplamda tahmini 160 puanlık iş tamamlanması hedeflenmiştir.
+
+## Puan Tamamlama Mantığı
+
+Puanlama sistemi, her görevin karmaşıklığına ve önemine göre belirlenmiştir. Görevlerin puanlanması ekip içinde yapılan tartışmalar ve teknik zorluklar göz önünde bulundurularak gerçekleştirilmiştir. Hedefe ulaşılmıştır.
+
+## Daily Scrum
+
+Günlük Scrum toplantıları sabah saat 20:00'da yapılmaktadır ve her bir toplantı 30 dakika sürmektedir. Toplantılarda ekip üyeleri günlük ilerlemelerini, karşılaştıkları engelleri ve gün içinde yapacakları işleri paylaşmaktadır.
+
+## Sprint Board Ekran Görüntüleri
+
+
+
+Yukarıdaki ekran görüntüsü, güncel sprint board'unu göstermektedir. Görevlerin durumu ve ilerlemesi buradan takip edilmektedir.
+
+## Ürün Durumu: Ekran Görüntüleri
+
+
+
+
+
+
+ ## Retrospektif
+
+Sprint retrospektif toplantısında ekip olarak yaşadığımız zorluklar ve iyileştirme önerileri üzerine şu kararlar alındı:
+- Kod incelemelerini sıklaştırmak.
+- Ekip içi iletişimi güçlendirecek aktiviteler düzenlemek.
+- clean cod üzerine çalışmak.
   
-**Notlar:**
-- Ürüne karar verildi.
-- Ürün logosu ve teması yapıldı.
-- Ürün Tasarımı bitti.
-- Ürünü üretim sürecine geçilecektir.
+## Sprint Notları
+
+### Gelişmeler
+
+- Makbule tasarımları geliştirdi.
+- Furkan kodlamaya başladı.
+- Kübra sprint 2'yi tamamladı. Kodlamaya yardımcı olacak.
+
+### Kararlar
+
+- Yeni ürün özelliklerinin öncelik sırası belirlendi.
+- Ekip içinde haftalık düzenli teknik toplantılar yapılmasına karar verildi.
+- Ürüne eklenecek özellikler tartışıldı.
+
+## Sprint Review
+
+### Hedefler
+
+Bu sprint boyunca belirlediğimiz ana hedefler şunlardı:
+- Uygulamanın ana tasarımlarını tamamlamak.
+- Belirlenen tasamları kodlamak ve kodları gözden geçirmek.
+- Uygulama için piyasa araştırması ve veri analizi yapmak.
+
+### Gerçekleşenler
+
+- Belirlenen hedefler gerçekleşti.
+
+### Sonraki Adımlar
+
+- Ürünü tamamlamak ve kullanılabilirliğini test etmek.
+- Ürünün tanıtımını yapmak ve pazara hazır hala getirmek.
+- Ürünün eksik yönlerini iyileştirmek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
