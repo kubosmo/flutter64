@@ -153,16 +153,18 @@ Günlük Scrum toplantıları sabah saat 20:00'da yapılmaktadır ve her bir top
 
 ## Sprint Board Ekran Görüntüleri
 
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/scrum.jpg)
 
 
 Yukarıdaki ekran görüntüsü, güncel sprint board'unu göstermektedir. Görevlerin durumu ve ilerlemesi buradan takip edilmektedir.
 
 ## Ürün Durumu: Ekran Görüntüleri
 ![Açıklama](https://github.com/kubosmo/flutter64/blob/main/1.jpg)
-
-
-
-
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/2.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/3.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/4.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/5.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/6.jpg)
 
  ## Retrospektif
 
@@ -175,7 +177,7 @@ Sprint retrospektif toplantısında ekip olarak yaşadığımız zorluklar ve iy
 
 ### Gelişmeler
 
-- Makbule tasarımları geliştirdi.
+- Makbule tasarımları geliştirdi. Kodlamaya yardımcı olacak.
 - Furkan kodlamaya başladı.
 - Kübra sprint 2'yi tamamladı. Kodlamaya yardımcı olacak.
 
