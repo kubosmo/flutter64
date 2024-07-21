@@ -158,7 +158,7 @@ Günlük Scrum toplantıları sabah saat 20:00'da yapılmaktadır ve her bir top
 Yukarıdaki ekran görüntüsü, güncel sprint board'unu göstermektedir. Görevlerin durumu ve ilerlemesi buradan takip edilmektedir.
 
 ## Ürün Durumu: Ekran Görüntüleri
-
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/1.jpg)
 
 
 
