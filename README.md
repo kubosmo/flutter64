@@ -226,10 +226,12 @@ Puan tamamlama mantığı, her bir kullanıcı hikayesi veya görev için tahmin
 ## Daily Scrum Notları
 - Her gün saat 20.00'da Whatsapp ve Discord üzerinden iletişime geçilmiştir.
 
-## Sprint Board Ekran Görüntüleri
-Sprint board üzerindeki mevcut durumun ekran görüntüleri:
+## Sprint Board Ekran Görüntüleri:
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/1.jpg)
 
-![Açıklama](https://github.com/kubosmo/flutter64/commit/6a6d120078f3ae1b66d3f708e90147ab2dfbca2b)
+
+
+
 
 
 
