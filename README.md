@@ -227,7 +227,7 @@ Puan tamamlama mantığı, her bir kullanıcı hikayesi veya görev için tahmin
 - Her gün saat 20.00'da Whatsapp ve Discord üzerinden iletişime geçilmiştir.
 
 ## Sprint Board Ekran Görüntüleri:
-![Açıklama](https://github.com/kubosmo/flutter64/blob/main/1.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/0.jpg)
 
 
 
