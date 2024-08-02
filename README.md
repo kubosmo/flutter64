@@ -228,6 +228,7 @@ Puan tamamlama mantığı, her bir kullanıcı hikayesi veya görev için tahmin
 
 ## Sprint Board Ekran Görüntüleri
 Sprint board üzerindeki mevcut durumun ekran görüntüleri:
+![Açıklama](https://github.com/kubosmo/flutter64/commit/6a6d120078f3ae1b66d3f708e90147ab2dfbca2b)
 
 
 
