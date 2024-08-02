@@ -238,6 +238,10 @@ Puan tamamlama mantığı, her bir kullanıcı hikayesi veya görev için tahmin
 ## Ürün Durumu: Ekran Görüntüleri
 Sprint sonunda ürünün mevcut durumu ve yapılmış olan değişiklikler:
 
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/a.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/b.jpg)
+![Açıklama](https://github.com/kubosmo/flutter64/blob/main/cb.jpg)
+
 
 ## Sprint Review
 Sprint Review toplantısında elde edilen geri bildirimler ve tartışmalar:
