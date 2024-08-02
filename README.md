@@ -1,4 +1,7 @@
 # Bootcamp Flutter 64
+
+## Sprint 1
+
 ## Takım ve Ürün Adı
 Kampüs Rehberi
 
@@ -205,6 +208,51 @@ Bu sprint boyunca belirlediğimiz ana hedefler şunlardı:
 - Ürünü tamamlamak ve kullanılabilirliğini test etmek.
 - Ürünün tanıtımını yapmak ve pazara hazır hala getirmek.
 - Ürünün eksik yönlerini iyileştirmek
+
+# Sprint Raporu - Sprint [3]
+
+## Sprint Notları
+Sprint [3], [Kampüs Rehberi] projesinin [22.08-02.09] tarihleri arasında gerçekleştirildi. 
+- Ana hedef ürünün tamamlanmasıdır.
+- Youtube için 1 dakikalık video çekilecek.
+- Üründe eksik kalan özellikler geliştirelecek.
+
+## Sprint İçinde Tamamlanması Tahmin Edilen Puan
+Sprint içinde tamamlanması beklenen puan 250 olarak belirlenmiştir.
+
+## Puan Tamamlama Mantığı
+Puan tamamlama mantığı, her bir kullanıcı hikayesi veya görev için tahmin edilen puanların, tamamlanma durumuna göre güncellenmesini içerir. Bütün katılımcılar görevlerini tamamlamıştır. 
+
+## Daily Scrum Notları
+- Her gün saat 20.00'da Whatsapp ve Discord üzerinden iletişime geçilmiştir.
+
+## Sprint Board Ekran Görüntüleri
+Sprint board üzerindeki mevcut durumun ekran görüntüleri:
+
+
+
+## Ürün Durumu: Ekran Görüntüleri
+Sprint sonunda ürünün mevcut durumu ve yapılmış olan değişiklikler:
+
+
+## Sprint Review
+Sprint Review toplantısında elde edilen geri bildirimler ve tartışmalar:
+
+- **Geri Bildirim 1:** [Uygulama oluştururken işlevsilliği tartışıldı.]
+- **Geri Bildirim 2:** [Ürünün pazarlaması konuşuldu.]
+- **Geri Bildirim 3:** [Sosyal medya yönetimi tartışıldı.]
+
+## Sprint Retrospective
+Sprint Retrospective toplantısında tartışılan konular ve alınan aksiyonlar:
+
+- **Ne İyi Gitti:** [Ürün oluşumu genel olarak iyi gitti. ]
+- **Ne İyi Gitmedi:** [Kişi sayısı az olduğu için kodlama yaparken sıkıntı yaşandı.]
+- **Geliştirme Fırsatları:** [Daha planlı ve geri bildirimli hareket edilebilirdi.]
+
+
+
+
+
 
 
 
